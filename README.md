@@ -1,4 +1,4 @@
-CS33001, spring 2017, Tue/Thu 9:00-10:20am, Ryerson 277. Instructor: Ian Foster
+# Introduction
 
 Access to new types of data has revolutionized much of science. Yet that revolution has yet to fully make its way to the scientific study of human beings and their interactions, where progress has been hindered by the legal, technical, and operational obstacles to sharing and accessing sensitive data about individuals. New paradigms and platforms are required to enable sensitive data from different sources to be discovered, integrated, and analyzed in an appropriately controlled manner, while also allowing researchers to share analysis methods, results, and expertise in ways not easily possible today. Success in this endeavor may enable a fundamental change in how data on human beings from governments, statistical agencies, research institutions, and other organizations, are made available for research, and thus a flowering of new methods for studying human subjects.
 
@@ -16,35 +16,31 @@ Our goal in this class is to study the technical problems raised by sensitive da
 -	Methods for sharing code and reproducible research
 -	The Globus safe data platform
 
+#  Class organization
 
-### Markdown
+The class is held Tue/Thu 9:00-10:20am in Ryerson 277. It runs from March 28 to June 1. The instructor is  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Date | Content
+------- | -------------
+3/28 | Introduction to secure analysis of sensitive data
+3/30 | TBD
+4/4 | TBD
+4/6 | TBD
+4/11 | TBD
+4/13 | TBD
+4/18 | TBD
+4/20 | TBD
+4/25 | TBD
+4/27 | TBD
+5/2 | TBD
+5/4 | TBD
+5/9 | TBD
+5/11 | TBD
+5/16 | TBD
+5/18 | TBD
+5/23 | TBD
+5/25 | TBD
+5/30 | TBD
+6/1  | TBD
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ianfoster/safedata/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
