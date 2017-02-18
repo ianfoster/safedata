@@ -43,4 +43,13 @@ Date | Content
 5/30 | TBD
 6/1  | TBD
 
+# Papers to be discussed (a work in progress)
 
+Differential privacy
+- TBD
+- TBD
+
+
+# The Administrative Data Research Facility
+
+TBD
