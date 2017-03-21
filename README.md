@@ -60,8 +60,10 @@ Date | Content
 
 
 ## Differential privacy
-- "[The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)", Cynthia Dwork and Aaron Roth
-- TBD
+- [Privacy by the Numbers: A New Approach to Safeguarding Data](https://www.scientificamerican.com/article/privacy-by-the-numbers-a-new-approach-to-safeguarding-data/), Erica Klarreich, 2012.
+- [A firm foundation for private data analysis](https://www.microsoft.com/en-us/research/publication/a-firm-foundation-for-private-data-analysis), Cynthia Dwork, 2011.
+- ["Privacy-Preserving Data Analysis for the Federal Statistical Agencies"](https://arxiv.org/pdf/1701.00752.pdf), John Abowd et al., 2017.
+- "[The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)", Cynthia Dwork and Aaron Roth, 2014.
 
 ## Homomorphic encryption
 
