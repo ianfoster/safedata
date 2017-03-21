@@ -46,14 +46,26 @@ Date | Content
 # Papers to be discussed (a work in progress)
 
 ## Overview 
-- "Privacy protecting research: Challenges and opportunities", Daniel Goroff and Jules Polonetsky
-- "Privacy and Security with Big Data", Simson Garfinkel
+- "Privacy protecting research: Challenges and opportunities", Daniel Goroff and Jules Polonetsky, 2017.
+- "Privacy and security with big data", Simson Garfinkel, 2017.
+
+## Thinking about safe data
+- "[Five Safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, and Richard Welpton, 2016.
+
+## Statistical disclosure control
+
+
+## Secure multi-party computation
+
+
 
 ## Differential privacy
 - "[The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)", Cynthia Dwork and Aaron Roth
 - TBD
 
-Residual information in documents
+## Homomorphic encryption
+
+## Residual information in documents
 - "[Leaking sensitive information in complex document files—and how to prevent it](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf)", Simson Garfinkel, 2014.
 
 
