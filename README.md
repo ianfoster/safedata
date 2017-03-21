@@ -49,6 +49,9 @@ Differential privacy
 - 
 - TBD
 
+Residual information in documents
+- "[Leaking Sensitive Information in Complex Document Files—and How to Prevent It](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf)", Simson Garfinkel, 2014.
+
 
 # The Administrative Data Research Facility
 
