@@ -45,16 +45,16 @@ Date | Content
 
 # Papers to be discussed (a work in progress)
 
-##Overview 
-- "Privacy Protecting Research: Challenges and Opportunities", Daniel Goroff and Jules Polonetsky
+## Overview 
+- "Privacy protecting research: Challenges and opportunities", Daniel Goroff and Jules Polonetsky
 - "Privacy and Security with Big Data", Simson Garfinkel
 
-##Differential privacy
-- 
+## Differential privacy
+- "[The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)", Cynthia Dwork and Aaron Roth
 - TBD
 
 Residual information in documents
-- "[Leaking Sensitive Information in Complex Document Files—and How to Prevent It](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf)", Simson Garfinkel, 2014.
+- "[Leaking sensitive information in complex document files—and how to prevent it](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf)", Simson Garfinkel, 2014.
 
 
 # The Administrative Data Research Facility
