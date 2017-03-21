@@ -18,7 +18,7 @@ Our goal in this class is to study the technical problems raised by sensitive da
 
 #  Class organization
 
-The class is held Tue/Thu 9:00-10:20am in Ryerson 277. It runs from March 28 to June 1. The instructor is Ian Foster.
+The class is held Tue/Thu 9:00-10:20am in Ryerson 277. It runs from March 28 to June 1. The instructor is Ian Foster <foster@uchicago.edu>, whose office is in Searle 222.
 
 Date | Content
 ------- | -------------
