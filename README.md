@@ -45,11 +45,11 @@ Date | Content
 
 # Papers to be discussed (a work in progress)
 
-Overview 
+##Overview 
 - "Privacy Protecting Research: Challenges and Opportunities", Daniel Goroff and Jules Polonetsky
 - "Privacy and Security with Big Data", Simson Garfinkel
 
-Differential privacy
+##Differential privacy
 - 
 - TBD
 
