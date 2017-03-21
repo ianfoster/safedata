@@ -50,7 +50,7 @@ Date | Content
 - "Privacy and security with big data", Simson Garfinkel, 2017.
 
 ## Thinking about safe data
-- "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, and Richard Welpton, 2016. [Notes](../master/Content/fivesafes.md)
+- "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, and Richard Welpton, 2016. ([Notes](../master/Content/fivesafes.md))
 
 ## Statistical disclosure control
 
@@ -71,6 +71,4 @@ Date | Content
 
 # The Administrative Data Research Facility
 
-TBD
-
-[XX](../master/test)
+TBD.
