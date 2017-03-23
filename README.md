@@ -25,7 +25,7 @@ Date | Content
 3/28 | Introduction to secure analysis of sensitive data
 3/30 | TBD
 4/4 | TBD
-4/6 | TBD
+4/6 | Guest lecturer: Charlie Catlett, Argonne National Laboratory
 4/11 | TBD
 4/13 | TBD
 4/18 | TBD
@@ -33,7 +33,7 @@ Date | Content
 4/25 | TBD
 4/27 | TBD
 5/2 | TBD
-5/4 | TBD
+5/4 | Guest lecturer: Simson Garfinkel, NIST
 5/9 | TBD
 5/11 | TBD
 5/16 | TBD
