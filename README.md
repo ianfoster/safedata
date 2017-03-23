@@ -37,7 +37,7 @@ Date | Content
 5/9 | TBD
 5/11 | TBD
 5/16 | TBD
-5/18 | TBD
+5/18 | Guess lecture: Brett Goldstein, UChicago
 5/23 | TBD
 5/25 | TBD
 5/30 | TBD
