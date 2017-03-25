@@ -25,7 +25,7 @@ Date | Content
 3/28 | Introduction to secure analysis of sensitive data
 3/30 | TBD
 4/4 | TBD
-4/6 | Guest lecturer: Charlie Catlett, Argonne National Laboratory
+4/6 | Guest lecture: Charlie Catlett, Argonne National Laboratory
 4/11 | TBD
 4/13 | TBD
 4/18 | TBD
@@ -37,7 +37,7 @@ Date | Content
 5/9 | TBD
 5/11 | TBD
 5/16 | TBD
-5/18 | Guess lecture: Brett Goldstein, UChicago
+5/18 | Guess lecture: Brett Goldstein, University of Chicago
 5/23 | TBD
 5/25 | TBD
 5/30 | TBD
@@ -48,9 +48,10 @@ Date | Content
 ## Overview 
 - "Privacy protecting research: Challenges and opportunities", Daniel Goroff and Jules Polonetsky, 2017.
 - "Privacy and security with big data", Simson Garfinkel, 2017.
+- "[New approaches to confidentiality protection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.3083&rep=rep1&type=pdf)", John Abowd, Julia Lane, 2004. 
 
 ## Thinking about safe data
-- "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, and Richard Welpton, 2016. ([Notes](../master/Content/fivesafes.md))
+- "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. ([Notes](../master/Content/fivesafes.md))
 
 ## Statistical disclosure control
 
