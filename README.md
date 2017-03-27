@@ -81,6 +81,9 @@ Date | Content
 - "[The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)", Cynthia Dwork and Aaron Roth, 2014.
 
 ## Homomorphic encryption
+- [Technical Perspective: A First Glimpse of Cryptography's Holy Grail](), 
+- [Computing Arbitrary Functions of Encrypted Data](https://crypto.stanford.edu/craig/easy-fhe.pdf), Craig Gentry, 2010.
+- [What is Homomorphic Encryption, and Why Should I Care?](https://community.embarcadero.com/blogs/entry/what-is-homomorphic-encryption-and-why-should-i-care-38566), Craig Stuntz, 2010.
 
 ## Residual information in documents
 - "[Leaking sensitive information in complex document files—and how to prevent it](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf)", Simson Garfinkel, 2014.
