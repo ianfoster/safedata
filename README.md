@@ -80,8 +80,8 @@ Date | Content
 - ["Privacy-Preserving Data Analysis for the Federal Statistical Agencies"](https://arxiv.org/pdf/1701.00752.pdf), John Abowd et al., 2017.
 - "[The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)", Cynthia Dwork and Aaron Roth, 2014.
 
-## Homomorphic encryption
-- [Technical Perspective: A First Glimpse of Cryptography's Holy Grail](), 
+## (Fully) homomorphic encryption
+- [Technical Perspective: A First Glimpse of Cryptography's Holy Grail](http://cacm.acm.org/magazines/2010/3/76275-technical-perspective-a-first-glimpse-of-cryptographys-holy-grail/abstract), Daniele Micciancio, 2010.
 - [Computing Arbitrary Functions of Encrypted Data](https://crypto.stanford.edu/craig/easy-fhe.pdf), Craig Gentry, 2010.
 - [What is Homomorphic Encryption, and Why Should I Care?](https://community.embarcadero.com/blogs/entry/what-is-homomorphic-encryption-and-why-should-i-care-38566), Craig Stuntz, 2010.
 
