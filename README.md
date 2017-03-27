@@ -53,6 +53,11 @@ Date | Content
 ## Thinking about safe data
 - "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. ([Notes](../master/Content/fivesafes.md))
 
+## Anonymization and de-identification
+- [A systematic review of re-identification attacks on health data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028071), Emam et al., 2011.
+- [Unique in the Crowd: The privacy bounds of human mobility](http://www.nature.com/articles/srep01376), Yves-Alexandre de Montjoye et al., 2013.
+- [Not So Unique in the Crowd: a Simple and Effective Algorithm for Anonymizing Location Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.663.4441&rep=rep1&type=pdf), Yi Song et al., 2014. 
+
 ## Statistical disclosure control
 
 
