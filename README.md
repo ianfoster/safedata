@@ -61,7 +61,7 @@ Date | Content
 - [Not So Unique in the Crowd: a Simple and Effective Algorithm for Anonymizing Location Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.663.4441&rep=rep1&type=pdf), Yi Song et al., 2014. 
 
 ## Reidentification risks
-- [The "Re-identification" of Governor William Weld's Medical Information: A Critical Re-examination of Health Data Identification Risks and Privacy Protections, Then and Now](https://fpf.org/wp-content/uploads/The-Re-identification-of-Governor-Welds-Medical-Information-Daniel-Barth-Jones.pdf), Daniel Barth-Jones, 2012. ([Notes](../master/Content/weld.md))
+- [The "Re-identification" of Governor William Weld's Medical Information: A Critical Re-examination of Health Data Identification Risks and Privacy Protections, Then and Now](https://fpf.org/wp-content/uploads/The-Re-identification-of-Governor-Welds-Medical-Information-Daniel-Barth-Jones.pdf), Daniel Barth-Jones, 2012. ([Notes](../master/Content/weld.md)) ([Notes2](Content/weld.md)) 
 
 ## Statistical disclosure control
 
