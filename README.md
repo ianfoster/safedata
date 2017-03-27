@@ -68,7 +68,7 @@ Date | Content
 
 
 ## Secure multi-party computation
-- 
+- [Multiparty Computation Goes Live](http://eprint.iacr.org/2008/068/20081028:111447), Peter Bogetoft et al., 2008.
 
 ## Computing on masked data
 - [Computing on Masked Data: a High Performance Method for Improving Big Data Veracity](https://arxiv.org/pdf/1406.5751.pdf), Jeremy Kepner et al., 2014.
