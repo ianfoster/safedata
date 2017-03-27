@@ -57,8 +57,11 @@ Date | Content
 
 
 ## Secure multi-party computation
+- 
 
-
+## Computing on masked data
+- [Computing on Masked Data: a High Performance Method for Improving Big Data Veracity](https://arxiv.org/pdf/1406.5751.pdf), Jeremy Kepner et al., 2014.
+- [Computing on Masked Data to improve the Security of Big Data](https://arxiv.org/abs/1504.01287), Vijay Gadepally et al., 2015.
 
 ## Differential privacy
 - [Privacy by the Numbers: A New Approach to Safeguarding Data](https://www.scientificamerican.com/article/privacy-by-the-numbers-a-new-approach-to-safeguarding-data/), Erica Klarreich, 2012.
