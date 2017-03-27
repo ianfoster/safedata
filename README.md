@@ -48,10 +48,11 @@ Date | Content
 ## Overview 
 - "Privacy protecting research: Challenges and opportunities", Daniel Goroff and Jules Polonetsky, 2017.
 - "Privacy and security with big data", Simson Garfinkel, 2017.
-- "[New approaches to confidentiality protection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.3083&rep=rep1&type=pdf)", John Abowd, Julia Lane, 2004. 
+- "[New approaches to confidentiality protection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.3083&rep=rep1&type=pdf)", John Abowd, Julia Lane, 2004.
+- [Privacy and confidentiality in the use of administrative and survey data](https://obamawhitehouse.archives.gov/sites/default/files/omb/mgmt-gpra/privacy_and_confidentiality_in_the_use_of_administrative_and_survey_data_0.pdf), 2016.
 
 ## Thinking about safe data
-- "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. (*[Notes](Content/fivesafes.md)*)
+- "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. (_[Notes](Content/fivesafes.md)_)
 
 ## Anonymization and de-identification
 - [How To Break Anonymity of the Netflix Prize Dataset](https://arxiv.org/abs/cs/0610105), Arvind Narayanan and Vitaly Shmatikov, 2006.
@@ -61,7 +62,7 @@ Date | Content
 - [Not So Unique in the Crowd: a Simple and Effective Algorithm for Anonymizing Location Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.663.4441&rep=rep1&type=pdf), Yi Song et al., 2014. 
 
 ## Reidentification risks
-- [The "Re-identification" of Governor William Weld's Medical Information: A Critical Re-examination of Health Data Identification Risks and Privacy Protections, Then and Now](https://fpf.org/wp-content/uploads/The-Re-identification-of-Governor-Welds-Medical-Information-Daniel-Barth-Jones.pdf), Daniel Barth-Jones, 2012. (*[Notes](Content/weld.md)*) 
+- [The "Re-identification" of Governor William Weld's Medical Information: A Critical Re-examination of Health Data Identification Risks and Privacy Protections, Then and Now](https://fpf.org/wp-content/uploads/The-Re-identification-of-Governor-Welds-Medical-Information-Daniel-Barth-Jones.pdf), Daniel Barth-Jones, 2012. (_[Notes](Content/weld.md)_) 
 
 ## Statistical disclosure control
 
