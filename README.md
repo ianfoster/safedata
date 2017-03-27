@@ -64,8 +64,8 @@ Date | Content
 ## Reidentification risks
 - [The "Re-identification" of Governor William Weld's Medical Information: A Critical Re-examination of Health Data Identification Risks and Privacy Protections, Then and Now](https://fpf.org/wp-content/uploads/The-Re-identification-of-Governor-Welds-Medical-Information-Daniel-Barth-Jones.pdf), Daniel Barth-Jones, 2012. (_[Notes](Content/weld.md)_) 
 
-## Statistical disclosure control
-
+## Statistical disclosure control ([Notes](Content/statistical_disclosure_control.mc))
+- [Statistical Disclosure Control for Survey Data](http://personal.lse.ac.uk/skinnecj/SDC%20for%20survey%20data%20S3RI.pdf), Chris Skinner, 2009.
 
 ## Secure multi-party computation
 - [Multiparty Computation Goes Live](http://eprint.iacr.org/2008/068/20081028:111447), Peter Bogetoft et al., 2008.
