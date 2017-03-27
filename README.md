@@ -54,8 +54,10 @@ Date | Content
 - "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. ([Notes](../master/Content/fivesafes.md))
 
 ## Anonymization and de-identification
+- [How To Break Anonymity of the Netflix Prize Dataset](https://arxiv.org/abs/cs/0610105), Arvind Narayanan and Vitaly Shmatikov, 2006.
 - [A systematic review of re-identification attacks on health data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028071), Emam et al., 2011.
 - [Unique in the Crowd: The privacy bounds of human mobility](http://www.nature.com/articles/srep01376), Yves-Alexandre de Montjoye et al., 2013.
+- [Unique in the shopping mall: On the reidentifiability of credit card metadata](https://dspace.mit.edu/openaccess-disseminate/1721.1/96321), Yves-Alexandre de Montjoye et al., 2014.
 - [Not So Unique in the Crowd: a Simple and Effective Algorithm for Anonymizing Location Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.663.4441&rep=rep1&type=pdf), Yi Song et al., 2014. 
 
 ## Statistical disclosure control
