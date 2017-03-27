@@ -84,6 +84,6 @@ Date | Content
 ## Responsible data
 - [Data,  Responsibly:  Fairness,  Neutrality  and Transparency  in  Data  Analysis](https://hal.inria.fr/hal-01290695/document), Julia Stoyanovich et al., 2016. (3 pages)
 
-# The Administrative Data Research Facility
+# Class project
 
 TBD.
