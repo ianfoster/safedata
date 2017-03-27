@@ -81,6 +81,8 @@ Date | Content
 ## Residual information in documents
 - "[Leaking sensitive information in complex document files—and how to prevent it](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf)", Simson Garfinkel, 2014.
 
+## Responsible data
+- [Data,  Responsibly:  Fairness,  Neutrality  and Transparency  in  Data  Analysis](https://hal.inria.fr/hal-01290695/document), Julia Stoyanovich et al., 2016. (3 pages)
 
 # The Administrative Data Research Facility
 
