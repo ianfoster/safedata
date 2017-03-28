@@ -20,24 +20,26 @@ Our goal in this class is to study the technical problems raised by sensitive da
 
 The class is held Tue/Thu 9:00-10:20am in Ryerson 277. It runs from March 28 to June 1. The instructor is Ian Foster <foster@uchicago.edu>, whose office is in Searle 222.
 
+The following schedule is subject to change!
+
 Date | Content
 ------- | -------------
-3/28 | Introduction to secure analysis of sensitive data
+3/28 | Introduction. Defining the space. 
 3/30 | TBD
-4/4 | TBD
-4/6 | Guest lecture: Charlie Catlett, Argonne National Laboratory
+4/4 | No lecture.
+4/6 | Guest lecture: Charlie Catlett, Argonne National Laboratory. The Array of Things and opportunities and challenges in urban data.
 4/11 | TBD
 4/13 | TBD
-4/18 | Guest lecture: Julia Lane, New York University
+4/18 | Guest lecture: Julia Lane, New York University. Social science motivations. Secure data enclaves and the Administrative Data Research Facility.
 4/20 | TBD
 4/25 | TBD
 4/27 | TBD
 5/2 | TBD
-5/4 | Guest lecturer: Simson Garfinkel, NIST
+5/4 | Guest lecturer: Simson Garfinkel, NIST. Technical challenges in disclosure control.
 5/9 | TBD
 5/11 | TBD
 5/16 | TBD
-5/18 | Guess lecture: Brett Goldstein, University of Chicago
+5/18 | Guess lecture: Brett Goldstein, University of Chicago. Responsible data mining.
 5/23 | TBD
 5/25 | TBD
 5/30 | TBD
