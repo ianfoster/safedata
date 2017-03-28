@@ -30,7 +30,7 @@ Date | Content
 4/6 | Guest lecture: Charlie Catlett, Argonne National Laboratory. The Array of Things and opportunities and challenges in urban data.
 4/11 | TBD
 4/13 | TBD
-4/18 | Guest lecture (remote): Julia Lane, New York University. Big data for public policy: The quadruple helix. [P1](Papers/point-pam.21921.pdf)
+4/18 | Guest lecture (remote): Julia Lane, New York University. Big data for public policy: The quadruple helix. Background reading: [P1](Papers/point-pam.21921.pdf), [P2](Papers/counterpoint-pam.21922.pdf), [P3](Papers/Jarmin_OHara_JPAM_CounterPoint_2016.pdf), [P4](Papers/Jarmin_OHara_JPAM_Point_2016.pdf), [P5](https://www.nap.edu/catalog/18614/proposed-revisions-to-the-common-rule-for-the-protection-of-human-subjects-in-the-behavioral-and-social-sciences).  
 4/20 | TBD
 4/25 | TBD
 4/27 | TBD
