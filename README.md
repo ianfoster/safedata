@@ -25,12 +25,12 @@ The following schedule is subject to change!
 Date | Content
 ------- | -------------
 3/28 | Introduction. Defining the space. 
-3/30 | TBD
+3/30 | Technological challenges and opportunities.
 4/4 | No lecture.
 4/6 | Guest lecture: Charlie Catlett, Argonne National Laboratory. The Array of Things and opportunities and challenges in urban data.
 4/11 | TBD
 4/13 | TBD
-4/18 | Guest lecture: Julia Lane, New York University. Social science motivations. Secure data enclaves and the Administrative Data Research Facility.
+4/18 | Guest lecture (remote): Julia Lane, New York University. Big data for public policy: The quadruple helix. [P1](Papers/point-pam.21921.pdf)
 4/20 | TBD
 4/25 | TBD
 4/27 | TBD
@@ -45,11 +45,13 @@ Date | Content
 5/30 | TBD
 6/1  | TBD
 
+To be scheduled: Bob Grossman.
+
 # Papers to be discussed (a work in progress)
 
 ## Overview 
-- Privacy protecting research: Challenges and opportunities, Daniel Goroff and Jules Polonetsky, 2017.
-- Privacy and security with big data, Simson Garfinkel, 2017.
+- Privacy protecting research: Challenges and opportunities, Daniel Goroff and Jules Polonetsky, 2017. (Paper distributed separately.)
+- Privacy and security with big data, Simson Garfinkel, 2017. (Paper distributed separately.)
 - [New approaches to confidentiality protection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.3083&rep=rep1&type=pdf), John Abowd, Julia Lane, 2004.
 - [Privacy and confidentiality in the use of administrative and survey data](https://obamawhitehouse.archives.gov/sites/default/files/omb/mgmt-gpra/privacy_and_confidentiality_in_the_use_of_administrative_and_survey_data_0.pdf), 2016.
 
