@@ -53,6 +53,7 @@ Date | Content
 
 ## Thinking about safe data
 - "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. (_[Notes](Content/fivesafes.md)_)
+- [Lane, Julia; Bowie, Chet; Scheuren, Fritz; Mulcahy, Tim (2009). "NORC Data Enclave:Providing Secure Remote Access to Sensitive Microdata]
 
 ## Anonymization and de-identification
 - [How To Break Anonymity of the Netflix Prize Dataset](https://arxiv.org/abs/cs/0610105), Arvind Narayanan and Vitaly Shmatikov, 2006.
