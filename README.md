@@ -20,24 +20,26 @@ Our goal in this class is to study the technical problems raised by sensitive da
 
 The class is held Tue/Thu 9:00-10:20am in Ryerson 277. It runs from March 28 to June 1. The instructor is Ian Foster <foster@uchicago.edu>, whose office is in Searle 222.
 
+The following schedule is subject to change!
+
 Date | Content
 ------- | -------------
-3/28 | Introduction to secure analysis of sensitive data
+3/28 | Introduction. Defining the space. 
 3/30 | TBD
-4/4 | TBD
-4/6 | Guest lecture: Charlie Catlett, Argonne National Laboratory
+4/4 | No lecture.
+4/6 | Guest lecture: Charlie Catlett, Argonne National Laboratory. The Array of Things and opportunities and challenges in urban data.
 4/11 | TBD
 4/13 | TBD
-4/18 | TBD
+4/18 | Guest lecture: Julia Lane, New York University. Social science motivations. Secure data enclaves and the Administrative Data Research Facility.
 4/20 | TBD
 4/25 | TBD
 4/27 | TBD
 5/2 | TBD
-5/4 | Guest lecturer: Simson Garfinkel, NIST
+5/4 | Guest lecturer: Simson Garfinkel, NIST. Technical challenges in disclosure control.
 5/9 | TBD
 5/11 | TBD
 5/16 | TBD
-5/18 | Guess lecture: Brett Goldstein, University of Chicago
+5/18 | Guess lecture: Brett Goldstein, University of Chicago. Responsible data mining.
 5/23 | TBD
 5/25 | TBD
 5/30 | TBD
@@ -46,13 +48,15 @@ Date | Content
 # Papers to be discussed (a work in progress)
 
 ## Overview 
-- "Privacy protecting research: Challenges and opportunities", Daniel Goroff and Jules Polonetsky, 2017.
-- "Privacy and security with big data", Simson Garfinkel, 2017.
-- "[New approaches to confidentiality protection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.3083&rep=rep1&type=pdf)", John Abowd, Julia Lane, 2004.
+- Privacy protecting research: Challenges and opportunities, Daniel Goroff and Jules Polonetsky, 2017.
+- Privacy and security with big data, Simson Garfinkel, 2017.
+- [New approaches to confidentiality protection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.3083&rep=rep1&type=pdf), John Abowd, Julia Lane, 2004.
 - [Privacy and confidentiality in the use of administrative and survey data](https://obamawhitehouse.archives.gov/sites/default/files/omb/mgmt-gpra/privacy_and_confidentiality_in_the_use_of_administrative_and_survey_data_0.pdf), 2016.
 
-## Thinking about safe data
-- "[Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf)", Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. (_[Notes](Content/fivesafes.md)_)
+## Safe data enclaves
+- [Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf), Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. (_[Notes](Content/fivesafes.md)_)
+- [NORC Data Enclave:Providing Secure Remote Access to Sensitive Microdata](http://ec.europa.eu/eurostat/documents/1001617/4398365/S02P1-NORC-DATA-ENCLAVE-SCHEUREN.ppt), Julia Lane et al., 2009.
+- [Data Access in a Cyber World: Making Use of Cyberinfrastructure](https://pdfs.semanticscholar.org/ce88/76858c14560afd6d8bd3e8bcae8425d33cab.pdf), Julia Lane et al., 2008.
 
 ## Anonymization and de-identification
 - [How To Break Anonymity of the Netflix Prize Dataset](https://arxiv.org/abs/cs/0610105), Arvind Narayanan and Vitaly Shmatikov, 2006.
@@ -77,8 +81,8 @@ Date | Content
 ## Differential privacy
 - [Privacy by the Numbers: A New Approach to Safeguarding Data](https://www.scientificamerican.com/article/privacy-by-the-numbers-a-new-approach-to-safeguarding-data/), Erica Klarreich, 2012.
 - [A firm foundation for private data analysis](https://www.microsoft.com/en-us/research/publication/a-firm-foundation-for-private-data-analysis), Cynthia Dwork, 2011.
-- ["Privacy-Preserving Data Analysis for the Federal Statistical Agencies"](https://arxiv.org/pdf/1701.00752.pdf), John Abowd et al., 2017.
-- "[The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)", Cynthia Dwork and Aaron Roth, 2014.
+- [Privacy-Preserving Data Analysis for the Federal Statistical Agencies](https://arxiv.org/pdf/1701.00752.pdf), John Abowd et al., 2017.
+- [The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), Cynthia Dwork and Aaron Roth, 2014.
 
 ## (Fully) homomorphic encryption
 - [Technical Perspective: A First Glimpse of Cryptography's Holy Grail](http://cacm.acm.org/magazines/2010/3/76275-technical-perspective-a-first-glimpse-of-cryptographys-holy-grail/abstract), Daniele Micciancio, 2010.
@@ -86,7 +90,7 @@ Date | Content
 - [What is Homomorphic Encryption, and Why Should I Care?](https://community.embarcadero.com/blogs/entry/what-is-homomorphic-encryption-and-why-should-i-care-38566), Craig Stuntz, 2010.
 
 ## Residual information in documents
-- "[Leaking sensitive information in complex document files—and how to prevent it](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf)", Simson Garfinkel, 2014.
+- [Leaking sensitive information in complex document files—and how to prevent it](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf), Simson Garfinkel, 2014.
 
 ## Secure databases
 - [CryptDB: Protecting Confidentiality with Encrypted Query Processing](http://web.cs.ucdavis.edu/~franklin/ecs228/2013/popa_etal_sosp_2011.pdf), Raluca Ada Popa et al., 2011.
