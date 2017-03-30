@@ -24,7 +24,7 @@ The following schedule is subject to change!
 
 Date | Content
 ------- | -------------
-3/28 | Introduction. Defining the space. 
+3/28 | Introduction. Defining the space. [Slides](Slides/Intro.pdf).
 3/30 | Technological challenges and opportunities. Reading: [P1](Papers/garfinkel_gates_draft1.pdf), [P2](Papers/goroffpreliminary_privacy_draft_for_gates.pdf).
 4/4 | No lecture.
 4/6 | Guest lecture: Charlie Catlett, Argonne National Laboratory. The Array of Things and opportunities and challenges in urban data.
