@@ -7,7 +7,7 @@ Our goal in this class is to study the technical problems raised by sensitive da
 -	Opportunities for social science, evidence-based policy, program evaluation, and healthcare
 -	Building and operating secure data enclaves 
 -	Secure multi party computation
--	Statistical disclose methods such as differential privacy
+-	Statistical disclosure methods such as differential privacy
 -	Privacy preserving data mining 
 -	Search and discovery with sensitive data
 -	Data de-identification, linkage, and re-identification
@@ -18,9 +18,17 @@ Our goal in this class is to study the technical problems raised by sensitive da
 
 #  Class organization
 
-The class is held Tue/Thu 9:00-10:20am in Ryerson 277. It runs from March 28 to June 1. The instructor is Ian Foster <foster@uchicago.edu>, whose office is in Searle 222.
+The class is held Tue/Thu 9:00-10:20am in Ryerson 277. It runs from March 28 to June 1. The instructor is Ian Foster <foster@uchicago.edu>, whose office is in Searle 222. Please feel free to email anytime with questions or to set up a meeting.
 
-The following schedule is subject to change!
+Along with this website, we'll use [Piazza](https://piazza.com/uchicago/spring2017/cmsc33001/home) for course announcements, submitting paper reviews, posting lecture slides, and general discussion and questions about course material.
+
+Grading
+* Paper reviews — 25%
+* Paper presentations — 20%
+* Participation — 5%
+* Course project — 50%
+
+# Schedule (subject to change)
 
 Date | Content
 ------- | -------------
