@@ -62,3 +62,7 @@ I strongly encourage you to use [LaTeX](http://en.wikibooks.org/wiki/LaTeX) and 
 As mentioned above, you should aim to produce a work of sufficient quality and novelty to submit to a workshop or conference 
 in computer security. 
 I'd be glad to discuss potential venues with you.
+
+## Thanks
+
+Thanks to my colleague [Ariel Feldman](https://arifeldman.com) for this text, which I adapted from his [CMSC 33251](https://www.classes.cs.uchicago.edu/archive/2017/winter/33251-1/project.html) site.
