@@ -10,10 +10,10 @@ The end products of your project will be a 20 minute presentation given to the c
 ideally, is of sufficient quality and novelty to submit to a workshop or conference in computer security. 
 There will also be several milestones throughout the quarter:
 
-## Pre-Proposal Discussion — Due 1/18
+## Pre-Proposal Discussion — Due 4/11
 Form a group and tentative project and idea, and schedule a meeting with me to discuss and refine it.
 
-## Written Proposal — Due 2/3
+## Written Proposal — Due 4/28
 Write a 2–3 page description of your project and email it to me. It should include:
 
 1. **Group**: Group member names and CNetIDs.
@@ -24,7 +24,7 @@ Write a 2–3 page description of your project and email it to me. It should inc
 1. **Evaluation**: How you will test how well your approach works (e.g., experimental measurements).
 1. **Scope**: What you plan to accomplish and deliver by each of the checkpoints and by the end of the quarter.
 
-## Checkpoint I — Due 2/17
+## Checkpoint I — Due 5/12
 Write a concise status report (no more than two pages) and email it to me. It should answer the following questions:
 
 1. **Progress**: What have you accomplished so far? What do you have left to do?
@@ -33,13 +33,13 @@ Write a concise status report (no more than two pages) and email it to me. It sh
 1. **Workarounds**: If you're having problems, how do you intend to solve them or work around them?
 1. **Preliminary results**: Can you draw any preliminary conclusions from your results so far? Include data.
 
-## Checkpoint II — Due 3/3
+## Checkpoint II — Due 5/26 (earlier for those graduating)
 Email me a second status report following the format of the first.
 
 ## Project Presentations — In class during finals week
 Give a 20 minute conference-style talk on your project.
 
-## Final Paper — Due 3/17
+## Final Paper — Due 6/12 (6/1 for those graduating)
 Your group's final project report should be 5–8 pages and written in the style of a workshop or conference submission, like most of the papers we have read this quarter. Please include at least the following:
 
 * An abstract that summarizes your work.
