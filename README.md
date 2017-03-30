@@ -36,7 +36,7 @@ Date | Content
 ------- | -------------
 3/28 | Introduction. Defining the space. [Slides](Slides/Intro.pdf).
 3/30 | **Technological challenges and opportunities**. Required: [Privacy and security with big data](Papers/garfinkel_gates_draft1.pdf), Simson Garfinkel, 2017; [Privacy protecting research: Challenges and opportunities](Papers/goroffpreliminary_privacy_draft_for_gates.pdf), Daniel Goroff and Jules Polonetsky, 2017.
-4/4 | Lecture to be confirmed.
+4/4 | **Guest lecture: Matt Gee**, Harris School.
 4/6 | **Guest lecture: Charlie Catlett**, Argonne National Laboratory. The Array of Things and opportunities and challenges in urban data.
 4/11 | **Safe data enclaves and related topics**. Required: [Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf), Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. (_[Notes](Content/fivesafes.md)_); [Research infrastructures for the safe analysis of sensitive data](Papers/fosterchapter.pdf), Ian Foster, 2017; Recommended: [NORC Data Enclave:Providing Secure Remote Access to Sensitive Microdata](http://ec.europa.eu/eurostat/documents/1001617/4398365/S02P1-NORC-DATA-ENCLAVE-SCHEUREN.ppt), Julia Lane et al., 2009; [Data Access in a Cyber World: Making Use of Cyberinfrastructure](https://pdfs.semanticscholar.org/ce88/76858c14560afd6d8bd3e8bcae8425d33cab.pdf), Julia Lane et al., 2008.
 4/13 | **Safe data enclaves, contd**. Required: [Advancing Integrated Data Systems by States and Local Governments](Papers/culhane_et_al_expert_panel_summary_121716.pdf), Dennis Culhane et al., 2017; [Cloud Kotta: Enabling Secure and Scalable Data Analytics in the Cloud](https://arxiv.org/abs/1610.03108), Yadu Babuji et al., 2016.  
