@@ -60,14 +60,11 @@ To be scheduled: Bob Grossman, Matt Gee.
 # Papers to be discussed (a work in progress)
 
 ## Overview 
-- Privacy protecting research: Challenges and opportunities, Daniel Goroff and Jules Polonetsky, 2017. (Paper distributed separately.)
-- Privacy and security with big data, Simson Garfinkel, 2017. (Paper distributed separately.)
 - [New approaches to confidentiality protection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.3083&rep=rep1&type=pdf), John Abowd, Julia Lane, 2004.
-- [Privacy and confidentiality in the use of administrative and survey data](https://obamawhitehouse.archives.gov/sites/default/files/omb/mgmt-gpra/privacy_and_confidentiality_in_the_use_of_administrative_and_survey_data_0.pdf), 2016.
+- [Privacy and confidentiality in the use of administrative and survey data](https://obamawhitehouse.archives.gov/sites/default/files/omb/mgmt-gpra/privacy_and_confidentiality_in_the_use_of_administrative_and_survey_data_0.pdf), 2016. (Report by OMB.)
 
 ## Safe data enclaves
-- [Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf), Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. (_[Notes](Content/fivesafes.md)_)
-- [NORC Data Enclave:Providing Secure Remote Access to Sensitive Microdata](http://ec.europa.eu/eurostat/documents/1001617/4398365/S02P1-NORC-DATA-ENCLAVE-SCHEUREN.ppt), Julia Lane et al., 2009.
+- [NORC Data Enclave:Providing Secure Remote Access to Sensitive Microdata](http://ec.europa.eu/eurostat/documents/1001617/4398365/S02P1-NORC-DATA-ENCLAVE-SCHEUREN.ppt), Julia Lane et al., 2009. (Slides)
 - [Data Access in a Cyber World: Making Use of Cyberinfrastructure](https://pdfs.semanticscholar.org/ce88/76858c14560afd6d8bd3e8bcae8425d33cab.pdf), Julia Lane et al., 2008.
 
 ## Anonymization and de-identification
