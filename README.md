@@ -28,6 +28,8 @@ Grading
 * Participation — 5%
 * Course project — 50%
 
+Separate pages provide guidance for [paper reviews and presentations](Content/reviews.md) and [class projects](Content/projects.md). 
+
 # Schedule (subject to change)
 
 Date | Content
