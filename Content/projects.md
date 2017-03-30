@@ -2,8 +2,8 @@
 
 Your course project should consist of original work and address an important, interesting **research problem** or
 **methodology problem** relating to the secure analysis of sensitive data. 
-It's up to you to find a good topic, but I want to discuss your ideas with you in order to help refine them.
-So send ideas sooner rather than later.
+It's up to you to find a good topic, but please discuss your ideas with me so that we can refine them together.
+Send ideas sooner rather than later.
 
 You'll be working in groups of 2–3. 
 The larger the group, the more I'll expect you to accomplish. 
@@ -22,9 +22,9 @@ A project that addresses a **methodology problem** should document a methodology
 
 In each case, I want to see:
 
-* Evaluation via application to non-triv data
+* Evaluation via application on realistic data
 
-In each case, it will be important to document any code that you use, by providing an [artifact evaluation appendix[(http://ctuning.org/ae/submission.html) for your paper. 
+In each case, it will be important to document any code that you use, by providing an [artifact evaluation appendix](http://ctuning.org/ae/submission.html) for your paper. 
 
 ## Milestones
 
