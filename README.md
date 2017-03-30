@@ -28,44 +28,45 @@ Grading
 * Participation — 5%
 * Course project — 50%
 
+Separate pages provide guidance for [paper reviews and presentations](Content/reviews.md) and [class projects](Content/projects.md). 
+
 # Schedule (subject to change)
 
 Date | Content
 ------- | -------------
 3/28 | Introduction. Defining the space. [Slides](Slides/Intro.pdf).
-3/30 | Technological challenges and opportunities. Reading: [P1](Papers/garfinkel_gates_draft1.pdf), [P2](Papers/goroffpreliminary_privacy_draft_for_gates.pdf).
+3/30 | **Technological challenges and opportunities**. Required: [Privacy and security with big data](Papers/garfinkel_gates_draft1.pdf), Simson Garfinkel, 2017; [Privacy protecting research: Challenges and opportunities](Papers/goroffpreliminary_privacy_draft_for_gates.pdf), Daniel Goroff and Jules Polonetsky, 2017.
 4/4 | No lecture.
-4/6 | Guest lecture: Charlie Catlett, Argonne National Laboratory. The Array of Things and opportunities and challenges in urban data.
-4/11 | TBD
+4/6 | **Guest lecture: Charlie Catlett**, Argonne National Laboratory. The Array of Things and opportunities and challenges in urban data.
+4/11 | **Safe data enclaves and related topics**. Required: [Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf), Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. (_[Notes](Content/fivesafes.md)_); Recommended: [NORC Data Enclave:Providing Secure Remote Access to Sensitive Microdata](http://ec.europa.eu/eurostat/documents/1001617/4398365/S02P1-NORC-DATA-ENCLAVE-SCHEUREN.ppt), Julia Lane et al., 2009; [Data Access in a Cyber World: Making Use of Cyberinfrastructure](https://pdfs.semanticscholar.org/ce88/76858c14560afd6d8bd3e8bcae8425d33cab.pdf), Julia Lane et al., 2008.
 4/13 | TBD
-4/18 | Guest lecture (remote): Julia Lane, New York University. Big data for public policy: The quadruple helix. Background reading: [P1](Papers/point-pam.21921.pdf), [P2](Papers/counterpoint-pam.21922.pdf), [P3](Papers/Jarmin_OHara_JPAM_CounterPoint_2016.pdf), [P4](Papers/Jarmin_OHara_JPAM_Point_2016.pdf), [P5](https://www.nap.edu/catalog/18614/proposed-revisions-to-the-common-rule-for-the-protection-of-human-subjects-in-the-behavioral-and-social-sciences).  
+4/18 | **Guest lecture (remote): Julia Lane**, New York University. Big data for public policy: The quadruple helix. Background reading: [P1](Papers/point-pam.21921.pdf), [P2](Papers/counterpoint-pam.21922.pdf), [P3](Papers/Jarmin_OHara_JPAM_CounterPoint_2016.pdf), [P4](Papers/Jarmin_OHara_JPAM_Point_2016.pdf), [P5](https://www.nap.edu/catalog/18614/proposed-revisions-to-the-common-rule-for-the-protection-of-human-subjects-in-the-behavioral-and-social-sciences).  
 4/20 | TBD
 4/25 | TBD
 4/27 | TBD
 5/2 | TBD
-5/4 | Guest lecturer: Simson Garfinkel, NIST. Technical challenges in disclosure control.
+5/4 | **Guest lecturer: Simson Garfinkel**, NIST. Technical challenges in disclosure control.
 5/9 | TBD
 5/11 | TBD
 5/16 | TBD
-5/18 | Guess lecture: Brett Goldstein, University of Chicago. Responsible data mining.
+5/18 | **Guess lecture: Brett Goldstein**, University of Chicago. Responsible data mining.
 5/23 | TBD
 5/25 | TBD
-5/30 | TBD
-6/1  | TBD
+5/30 | **Project presentations** for those graduating this quarter
+6/1  | Reading period
+6/6  | **Project presentations**
+6/8  | **Project presentations**
 
-To be scheduled: Bob Grossman.
+To be scheduled: Bob Grossman, Matt Gee.
 
 # Papers to be discussed (a work in progress)
 
 ## Overview 
-- Privacy protecting research: Challenges and opportunities, Daniel Goroff and Jules Polonetsky, 2017. (Paper distributed separately.)
-- Privacy and security with big data, Simson Garfinkel, 2017. (Paper distributed separately.)
 - [New approaches to confidentiality protection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.3083&rep=rep1&type=pdf), John Abowd, Julia Lane, 2004.
-- [Privacy and confidentiality in the use of administrative and survey data](https://obamawhitehouse.archives.gov/sites/default/files/omb/mgmt-gpra/privacy_and_confidentiality_in_the_use_of_administrative_and_survey_data_0.pdf), 2016.
+- [Privacy and confidentiality in the use of administrative and survey data](https://obamawhitehouse.archives.gov/sites/default/files/omb/mgmt-gpra/privacy_and_confidentiality_in_the_use_of_administrative_and_survey_data_0.pdf), 2016. (Report by OMB.)
 
 ## Safe data enclaves
-- [Five safes: designing data access for research](http://www2.uwe.ac.uk/faculties/BBS/Documents/1601.pdf), Tanvi Desai, Felix Ritchie, Richard Welpton, 2016. (_[Notes](Content/fivesafes.md)_)
-- [NORC Data Enclave:Providing Secure Remote Access to Sensitive Microdata](http://ec.europa.eu/eurostat/documents/1001617/4398365/S02P1-NORC-DATA-ENCLAVE-SCHEUREN.ppt), Julia Lane et al., 2009.
+- [NORC Data Enclave:Providing Secure Remote Access to Sensitive Microdata](http://ec.europa.eu/eurostat/documents/1001617/4398365/S02P1-NORC-DATA-ENCLAVE-SCHEUREN.ppt), Julia Lane et al., 2009. (Slides)
 - [Data Access in a Cyber World: Making Use of Cyberinfrastructure](https://pdfs.semanticscholar.org/ce88/76858c14560afd6d8bd3e8bcae8425d33cab.pdf), Julia Lane et al., 2008.
 
 ## Anonymization and de-identification
@@ -107,6 +108,11 @@ To be scheduled: Bob Grossman.
 
 ## Responsible data
 - [Data,  Responsibly:  Fairness,  Neutrality  and Transparency  in  Data  Analysis](https://hal.inria.fr/hal-01290695/document), Julia Stoyanovich et al., 2016. (3 pages)
+
+## Other
+- [Privacy: Theory meets Practice on the Map](https://lehd.ces.census.gov/doc/help/ICDE08_conference_0768.pdf), Ashwin Machanavajjhala et al., 2008.
+- [Verifiable  Differential  Privacy](https://arifeldman.com/pub/VerDP-EuroSys15.pdf), Arjun Narayan et al., 2015.
+- [Multiple imputation for statistical disclosure limitation](http://www2.stat.duke.edu/~jerry/Papers/jos03.pdf), TE Raghunathan et al., 2003.
 
 # Class project
 
