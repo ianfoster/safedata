@@ -50,8 +50,10 @@ Date | Content
 5/18 | **Guess lecture: Brett Goldstein**, University of Chicago. Responsible data mining.
 5/23 | TBD
 5/25 | TBD
-5/30 | TBD
-6/1  | TBD
+5/30 | **Project presentations** for those graduating this quarter
+6/1  | Reading period
+6/6  | **Project presentations**
+6/8  | **Project presentations**
 
 To be scheduled: Bob Grossman, Matt Gee.
 
