@@ -83,6 +83,12 @@ As mentioned above, you should aim to produce a work of sufficient quality and n
 in computer security. 
 I'd be glad to discuss potential venues with you.
 
+## Project ideas
+
+* The Globus team has collected large quantities of file transfer log data that researchers have used to build models of data transfer performance. They now want to publish their results and want to share the data on which the research was based. But these data contain identifying information about institutions and individual users that is protected by the Globus service usage agreement. How can we de-identify the data, create synthetic datasets, or otherwise enable safe data release?
+
+
+
 ## Thanks
 
 Thanks to my colleague [Ariel Feldman](https://arifeldman.com) for this text, which I adapted from his [CMSC 33251](https://www.classes.cs.uchicago.edu/archive/2017/winter/33251-1/project.html) site.
