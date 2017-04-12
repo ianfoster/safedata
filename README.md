@@ -113,7 +113,7 @@ To be scheduled: Bob Grossman, Matt Gee.
 - [Privacy: Theory meets Practice on the Map](https://lehd.ces.census.gov/doc/help/ICDE08_conference_0768.pdf), Ashwin Machanavajjhala et al., 2008.
 - [Verifiable  Differential  Privacy](https://arifeldman.com/pub/VerDP-EuroSys15.pdf), Arjun Narayan et al., 2015.
 - [Multiple imputation for statistical disclosure limitation](http://www2.stat.duke.edu/~jerry/Papers/jos03.pdf), TE Raghunathan et al., 2003.
-- [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), McMahan et al., and see [blog post](https://research.googleblog.com/2017/04/federated-learning-collaborative.html).
+- [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), McMahan et al., 2016, and see [blog post](https://research.googleblog.com/2017/04/federated-learning-collaborative.html), 2017.
 
 # Class project
 
