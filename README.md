@@ -42,7 +42,7 @@ Date | Content
 4/13 | **Safe data enclaves, contd**. Required: [Advancing Integrated Data Systems by States and Local Governments](Papers/culhane_et_al_expert_panel_summary_121716.pdf), Dennis Culhane et al., 2017; [Cloud Kotta: Enabling Secure and Scalable Data Analytics in the Cloud](https://arxiv.org/abs/1610.03108), Yadu Babuji et al., 2016.  
 4/18 | **Guest lecture (remote): Julia Lane**, New York University. Big data for public policy: The quadruple helix. Background reading: [P1](Papers/point-pam.21921.pdf), [P2](Papers/counterpoint-pam.21922.pdf), [P3](Papers/Jarmin_OHara_JPAM_CounterPoint_2016.pdf), [P4](Papers/Jarmin_OHara_JPAM_Point_2016.pdf), [P5](https://www.nap.edu/catalog/18614/proposed-revisions-to-the-common-rule-for-the-protection-of-human-subjects-in-the-behavioral-and-social-sciences).  
 4/20 | **Homomorphic encryption**. Three papers: [Technical Perspective: A First Glimpse of Cryptography's Holy Grail](Papers/p96-micciancio.pdf), Daniele Micciancio, 2010; [Computing Arbitrary Functions of Encrypted Data](https://crypto.stanford.edu/craig/easy-fhe.pdf), Craig Gentry, 2010; [What is Homomorphic Encryption, and Why Should I Care?](https://community.embarcadero.com/blogs/entry/what-is-homomorphic-encryption-and-why-should-i-care-38566), Craig Stuntz, 2010.
-4/25 | TBD
+4/25 | **More homomorphic etc.**. [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf), Dowlin et al., 2016; [CryptDB: Protecting Confidentiality with Encrypted Query Processing](http://web.cs.ucdavis.edu/~franklin/ecs228/2013/popa_etal_sosp_2011.pdf), Raluca Ada Popa et al., 2011.
 4/27 | TBD
 5/2 | TBD
 5/4 | **Guest lecturer: Simson Garfinkel**, NIST. Technical challenges in disclosure control.
@@ -98,9 +98,6 @@ To be scheduled: Bob Grossman, Matt Gee.
 
 ## Residual information in documents
 - [Leaking sensitive information in complex document files—and how to prevent it](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf), Simson Garfinkel, 2014.
-
-## Secure databases
-- [CryptDB: Protecting Confidentiality with Encrypted Query Processing](http://web.cs.ucdavis.edu/~franklin/ecs228/2013/popa_etal_sosp_2011.pdf), Raluca Ada Popa et al., 2011.
 
 ## Responsible data
 - [Data,  Responsibly:  Fairness,  Neutrality  and Transparency  in  Data  Analysis](https://hal.inria.fr/hal-01290695/document), Julia Stoyanovich et al., 2016. (3 pages)
