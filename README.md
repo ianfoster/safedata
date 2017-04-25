@@ -43,7 +43,7 @@ Date | Content
 4/18 | **Guest lecture (remote): Julia Lane**, New York University. Big data for public policy: The quadruple helix. Background reading: [P1](Papers/point-pam.21921.pdf), [P2](Papers/counterpoint-pam.21922.pdf), [P3](Papers/Jarmin_OHara_JPAM_CounterPoint_2016.pdf), [P4](Papers/Jarmin_OHara_JPAM_Point_2016.pdf), [P5](https://www.nap.edu/catalog/18614/proposed-revisions-to-the-common-rule-for-the-protection-of-human-subjects-in-the-behavioral-and-social-sciences).  
 4/20 | **Homomorphic encryption**. Three papers: [Technical Perspective: A First Glimpse of Cryptography's Holy Grail](Papers/p96-micciancio.pdf), Daniele Micciancio, 2010; [Computing Arbitrary Functions of Encrypted Data](https://crypto.stanford.edu/craig/easy-fhe.pdf), Craig Gentry, 2010; [What is Homomorphic Encryption, and Why Should I Care?](https://community.embarcadero.com/blogs/entry/what-is-homomorphic-encryption-and-why-should-i-care-38566), Craig Stuntz, 2010.
 4/25 | **More homomorphic etc.**. [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf), Dowlin et al., 2016; [CryptDB: Protecting Confidentiality with Encrypted Query Processing](http://web.cs.ucdavis.edu/~franklin/ecs228/2013/popa_etal_sosp_2011.pdf), Raluca Ada Popa et al., 2011.
-4/27 | TBD
+4/27 | **Differntial privacy.** [Privacy by the Numbers: A New Approach to Safeguarding Data](https://www.scientificamerican.com/article/privacy-by-the-numbers-a-new-approach-to-safeguarding-data/), Erica Klarreich, 2012; [A firm foundation for private data analysis](https://www.microsoft.com/en-us/research/publication/a-firm-foundation-for-private-data-analysis), Cynthia Dwork, 2011; [Privacy-Preserving Data Analysis for the Federal Statistical Agencies](https://arxiv.org/pdf/1701.00752.pdf), John Abowd et al., 2017; [The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), Cynthia Dwork and Aaron Roth, 2014.
 5/2 | TBD
 5/4 | **Guest lecturer: Simson Garfinkel**, NIST. Technical challenges in disclosure control.
 5/9 | TBD
@@ -88,13 +88,6 @@ To be scheduled: Bob Grossman, Matt Gee.
 ## Computing on masked data
 - [Computing on Masked Data: a High Performance Method for Improving Big Data Veracity](https://arxiv.org/pdf/1406.5751.pdf), Jeremy Kepner et al., 2014.
 - [Computing on Masked Data to improve the Security of Big Data](https://arxiv.org/abs/1504.01287), Vijay Gadepally et al., 2015.
-
-## Differential privacy
-- [Privacy by the Numbers: A New Approach to Safeguarding Data](https://www.scientificamerican.com/article/privacy-by-the-numbers-a-new-approach-to-safeguarding-data/), Erica Klarreich, 2012.
-- [A firm foundation for private data analysis](https://www.microsoft.com/en-us/research/publication/a-firm-foundation-for-private-data-analysis), Cynthia Dwork, 2011.
-- [Privacy-Preserving Data Analysis for the Federal Statistical Agencies](https://arxiv.org/pdf/1701.00752.pdf), John Abowd et al., 2017.
-- [The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), Cynthia Dwork and Aaron Roth, 2014.
-
 
 ## Residual information in documents
 - [Leaking sensitive information in complex document files—and how to prevent it](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf), Simson Garfinkel, 2014.
