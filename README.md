@@ -57,7 +57,7 @@ Date | Content
 6/6  | **Project presentations**
 6/8  | **Project presentations**
 
-To be scheduled: Bob Grossman, Matt Gee.
+To be scheduled: Bob Grossman.
 
 # Papers to be discussed (a work in progress)
 
