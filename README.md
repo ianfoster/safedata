@@ -45,7 +45,7 @@ Date | Content
 4/25 | **More homomorphic etc.**. [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf), Dowlin et al., 2016; [CryptDB: Protecting Confidentiality with Encrypted Query Processing](http://web.cs.ucdavis.edu/~franklin/ecs228/2013/popa_etal_sosp_2011.pdf), Raluca Ada Popa et al., 2011.
 4/27 | **Differential privacy.** [Privacy by the Numbers: A New Approach to Safeguarding Data](https://www.scientificamerican.com/article/privacy-by-the-numbers-a-new-approach-to-safeguarding-data/), Erica Klarreich, 2012; [A firm foundation for private data analysis](https://www.microsoft.com/en-us/research/publication/a-firm-foundation-for-private-data-analysis), Cynthia Dwork, 2011; [Privacy-Preserving Data Analysis for the Federal Statistical Agencies](https://arxiv.org/pdf/1701.00752.pdf), John Abowd et al., 2017; [The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), Cynthia Dwork and Aaron Roth, 2014.
 5/2 | **Synthetic data and statistical disclosure limitation.** [How Protective Are Synthetic Data?](Papers/AbowdSDL.pdf), Abowd and Vilhuber, 2008; [Statistical Disclosure Control for Survey Data](http://personal.lse.ac.uk/skinnecj/SDC%20for%20survey%20data%20S3RI.pdf), Chris Skinner, 2009.
-5/4 | **Guest lecturer: Simson Garfinkel**, NIST. Technical challenges in disclosure control.
+5/4 | **Guest lecturer: Simson Garfinkel**, US Census Bureau. Technical challenges in disclosure control.
 5/9 | TBD
 5/11 | TBD
 5/16 | TBD
