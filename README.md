@@ -46,8 +46,8 @@ Date | Content
 4/27 | **Differential privacy.** [Privacy by the Numbers: A New Approach to Safeguarding Data](https://www.scientificamerican.com/article/privacy-by-the-numbers-a-new-approach-to-safeguarding-data/), Erica Klarreich, 2012; [A firm foundation for private data analysis](https://www.microsoft.com/en-us/research/publication/a-firm-foundation-for-private-data-analysis), Cynthia Dwork, 2011; [Privacy-Preserving Data Analysis for the Federal Statistical Agencies](https://arxiv.org/pdf/1701.00752.pdf), John Abowd et al., 2017; [The algorithmic foundations of differential privacy](http://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), Cynthia Dwork and Aaron Roth, 2014.
 5/2 | **Synthetic data and statistical disclosure limitation.** [How Protective Are Synthetic Data?](Papers/AbowdSDL.pdf), Abowd and Vilhuber, 2008; [Statistical Disclosure Control for Survey Data](http://personal.lse.ac.uk/skinnecj/SDC%20for%20survey%20data%20S3RI.pdf), Chris Skinner, 2009.
 5/4 | **Guest lecturer: Simson Garfinkel**, US Census Bureau. Technical challenges in disclosure control.
-5/9 | TBD
-5/11 | TBD
+5/9 | **Differential privacy and other topics.** [On Significance of the Least Significant Bits For Differential Privacy](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.366.5957&rep=rep1&type=pdf), Ilya Mironov, 2012. [Verifiable  Differential  Privacy](https://arifeldman.com/pub/VerDP-EuroSys15.pdf), Arjun Narayan et al., 2015.
+5/11 | **Multiparty and masked.** [Multiparty Computation Goes Live](http://eprint.iacr.org/2008/068/20081028:111447), Peter Bogetoft et al., 2008. [Computing on Masked Data to improve the Security of Big Data](https://arxiv.org/abs/1504.01287), Vijay Gadepally et al., 2015.
 5/16 | TBD
 5/18 | **Guess lecture: Brett Goldstein**, University of Chicago. Responsible data mining.
 5/23 | TBD
@@ -87,7 +87,7 @@ To be scheduled: Bob Grossman.
 
 ## Computing on masked data
 - [Computing on Masked Data: a High Performance Method for Improving Big Data Veracity](https://arxiv.org/pdf/1406.5751.pdf), Jeremy Kepner et al., 2014.
-- [Computing on Masked Data to improve the Security of Big Data](https://arxiv.org/abs/1504.01287), Vijay Gadepally et al., 2015.
+- 
 
 ## Residual information in documents
 - [Leaking sensitive information in complex document files—and how to prevent it](https://simson.net/clips/academic/2014.IEEE.leaking_pdfs.pdf), Simson Garfinkel, 2014.
@@ -97,7 +97,6 @@ To be scheduled: Bob Grossman.
 
 ## Other
 - [Privacy: Theory meets Practice on the Map](https://lehd.ces.census.gov/doc/help/ICDE08_conference_0768.pdf), Ashwin Machanavajjhala et al., 2008.
-- [Verifiable  Differential  Privacy](https://arifeldman.com/pub/VerDP-EuroSys15.pdf), Arjun Narayan et al., 2015.
 - [Multiple imputation for statistical disclosure limitation](http://www2.stat.duke.edu/~jerry/Papers/jos03.pdf), TE Raghunathan et al., 2003.
 - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), McMahan et al., 2016, and see [blog post](https://research.googleblog.com/2017/04/federated-learning-collaborative.html), 2017.
 - [The Anonymization Debate Should Be About Risk, Not Perfection](Papers/p22-hartzog.pdf), Hartzog et al., 2017., and a [longer version](Papers/SSRN-id2646185.pdf).
