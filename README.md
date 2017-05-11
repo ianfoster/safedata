@@ -49,15 +49,13 @@ Date | Content
 5/9 | **Differential privacy.** [On Significance of the Least Significant Bits For Differential Privacy](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.366.5957&rep=rep1&type=pdf), Ilya Mironov, 2012. [Verifiable  Differential  Privacy](https://arifeldman.com/pub/VerDP-EuroSys15.pdf), Arjun Narayan et al., 2015.
 5/11 | **Multiparty and masked.** [Multiparty Computation Goes Live](http://eprint.iacr.org/2008/068/20081028:111447), Peter Bogetoft et al., 2008. [Computing on Masked Data to improve the Security of Big Data](https://arxiv.org/abs/1504.01287), Vijay Gadepally et al., 2015.
 5/16 | TBD
-5/18 | **Guess lecture: Brett Goldstein**, University of Chicago. Responsible data mining.
-5/23 | TBD
+5/18 | **Guest lecture: Brett Goldstein**, University of Chicago. Responsible data mining.
+5/23 | **Guest lecture: Bruce Meyer**, University of Chicago.
 5/25 | TBD
 5/30 | **Project presentations** for those graduating this quarter
 6/1  | Reading period
-6/6  | **Project presentations**
+6/6  | No class (Ian at conference)
 6/8  | **Project presentations**
-
-To be scheduled: Bob Grossman.
 
 # Papers to be discussed (a work in progress)
 
