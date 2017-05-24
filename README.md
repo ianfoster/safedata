@@ -51,7 +51,7 @@ Date | Content
 5/16 | Project reviews
 5/18 | **Guest lecture: Brett Goldstein**, University of Chicago. Responsible data mining.
 5/23 | **Guest lecture: Bruce Meyer**, University of Chicago.
-5/25 | Malaria paper and [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), McMahan et al., 2016, and see [blog post](https://research.googleblog.com/2017/04/federated-learning-collaborative.html), 2017.
+5/25 | [Malaria paper](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-13-52) and [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), McMahan et al., 2016, and see [blog post](https://research.googleblog.com/2017/04/federated-learning-collaborative.html), 2017.
 5/30 | **Project presentations** for those graduating this quarter
 6/1  | Reading period
 6/6  | No class (Ian at conference)
