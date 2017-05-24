@@ -48,10 +48,10 @@ Date | Content
 5/4 | **Guest lecturer: Simson Garfinkel**, US Census Bureau. Technical challenges in disclosure control.
 5/9 | **Differential privacy.** [On Significance of the Least Significant Bits For Differential Privacy](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.366.5957&rep=rep1&type=pdf), Ilya Mironov, 2012. [Verifiable  Differential  Privacy](https://arifeldman.com/pub/VerDP-EuroSys15.pdf), Arjun Narayan et al., 2015.
 5/11 | **Multiparty and masked.** [Multiparty Computation Goes Live](http://eprint.iacr.org/2008/068/20081028:111447), Peter Bogetoft et al., 2008. [Computing on Masked Data to improve the Security of Big Data](https://arxiv.org/abs/1504.01287), Vijay Gadepally et al., 2015.
-5/16 | TBD
+5/16 | Project reviews
 5/18 | **Guest lecture: Brett Goldstein**, University of Chicago. Responsible data mining.
 5/23 | **Guest lecture: Bruce Meyer**, University of Chicago.
-5/25 | TBD
+5/25 | Malaria paper and [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), McMahan et al., 2016, and see [blog post](https://research.googleblog.com/2017/04/federated-learning-collaborative.html), 2017.
 5/30 | **Project presentations** for those graduating this quarter
 6/1  | Reading period
 6/6  | No class (Ian at conference)
@@ -96,5 +96,4 @@ Date | Content
 ## Other
 - [Privacy: Theory meets Practice on the Map](https://lehd.ces.census.gov/doc/help/ICDE08_conference_0768.pdf), Ashwin Machanavajjhala et al., 2008.
 - [Multiple imputation for statistical disclosure limitation](http://www2.stat.duke.edu/~jerry/Papers/jos03.pdf), TE Raghunathan et al., 2003.
-- [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), McMahan et al., 2016, and see [blog post](https://research.googleblog.com/2017/04/federated-learning-collaborative.html), 2017.
 - [The Anonymization Debate Should Be About Risk, Not Perfection](Papers/p22-hartzog.pdf), Hartzog et al., 2017., and a [longer version](Papers/SSRN-id2646185.pdf).
